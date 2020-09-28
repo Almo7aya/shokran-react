@@ -1,0 +1,17 @@
+.Wizard {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+
+    padding: 30px 0;
+
+    &__logo {
+        text-align: center;
+    }
+
+    &__details {
+        margin: 55px 0;
+    }
+}
